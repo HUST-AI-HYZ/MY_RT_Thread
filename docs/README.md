@@ -2,7 +2,7 @@
 
 ## 软件包地址
 
-- https://github.com/RT-Thread-packages/hello
+- [https://github.com/HUST-AI-HYZ/MY_RT_Thread/edit/OSTU_SEARCHLINE]
 
 ## 文档列表
 
