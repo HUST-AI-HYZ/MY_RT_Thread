@@ -1,2 +1,2 @@
-# MY_RT_Thread
-用于记录自己的RT-Thread学习
+# OTSU_SEARCHLINE
+使用了OTSU算法进行图像分割，最长白列法进行搜线，包括特殊元素处理，可以用于智能车室内组赛道图像识别
